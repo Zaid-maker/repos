@@ -27,5 +27,9 @@ If you want to create your own repository landscape similar to this, please foll
 - URL: <a href="https://github.com/Zaid-maker/zoom">Zaid-maker/zoom</a>
 - Description: null
 - <a href="https://github.com/Zaid-maker/zoom/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/zoom"/></a>
+## 7. react
+- URL: <a href="https://github.com/Zaid-maker/react">Zaid-maker/react</a>
+- Description: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- <a href="https://github.com/Zaid-maker/react/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/react"/></a>
 
 For full list of repositories, click [**here**](https://github.com/Zaid-maker?tab=repositories&q=&type=&language=&sort=stargazers).
