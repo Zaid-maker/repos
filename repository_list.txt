@@ -2,4 +2,4 @@ Zaid-maker/discord-clone
 Zaid-maker/finance
 Zaid-maker/lingo
 Zaid-maker/status-page
-Zaid-maker/status-page.advanced
+Zaid-maker/status-page-advanced
