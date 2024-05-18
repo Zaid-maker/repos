@@ -11,8 +11,8 @@ on:
   ## Manual trigger
   workflow_dispatch:
   ## Optional: Schedule trigger to update the content regularly
-  # schedule:
-  #   - cron: '0 0 * * 6' # Run every Saturday at midnight
+  schedule:
+    - cron: '0,15,30,45, * * * *' # Runs at 0, 15, 30, and 45 minutes past the hour.
 
 jobs:
   update-content:
