@@ -5,7 +5,7 @@ If you want to create your own repository landscape similar to this, please foll
 
 ## 1. discord-clone
 - URL: <a href="https://github.com/Zaid-maker/discord-clone">Zaid-maker/discord-clone</a>
-- Description: null
+- Description: Discord clone in nextjs 13
 - <a href="https://github.com/Zaid-maker/discord-clone/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/discord-clone"/></a>
 ## 2. finance
 - URL: <a href="https://github.com/Zaid-maker/finance">Zaid-maker/finance</a>
