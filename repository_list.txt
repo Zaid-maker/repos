@@ -4,3 +4,4 @@ Zaid-maker/lingo
 Zaid-maker/status-page
 Zaid-maker/status-page-advanced
 Zaid-maker/zoom
+Zaid-maker/react
