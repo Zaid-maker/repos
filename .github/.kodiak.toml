@@ -3,5 +3,3 @@ version = 1
 
 [merge]
 automerge_label = "pr: automerge"
-require_automerge_label = true
-delete_branch_on_merge = true
