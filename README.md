@@ -23,5 +23,9 @@ If you want to create your own repository landscape similar to this, please foll
 - URL: <a href="https://github.com/Zaid-maker/status-page-advanced">Zaid-maker/status-page-advanced</a>
 - Description: 📈 Uptime monitor and status page for DevMirza, powered by @upptime
 - <a href="https://github.com/Zaid-maker/status-page-advanced/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/status-page-advanced"/></a>
+## 6. zoom
+- URL: <a href="https://github.com/Zaid-maker/zoom">Zaid-maker/zoom</a>
+- Description: null
+- <a href="https://github.com/Zaid-maker/zoom/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/zoom"/></a>
 
 For full list of repositories, click [**here**](https://github.com/Zaid-maker?tab=repositories&q=&type=&language=&sort=stargazers).
