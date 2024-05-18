@@ -15,5 +15,13 @@ If you want to create your own repository landscape similar to this, please foll
 - URL: <a href="https://github.com/Zaid-maker/lingo">Zaid-maker/lingo</a>
 - Description: null
 - <a href="https://github.com/Zaid-maker/lingo/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/lingo"/></a>
+## 4. status-page
+- URL: <a href="https://github.com/Zaid-maker/status-page">Zaid-maker/status-page</a>
+- Description: my first ever status page.
+- <a href="https://github.com/Zaid-maker/status-page/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/status-page"/></a>
+## 5. status-page-advanced
+- URL: <a href="https://github.com/Zaid-maker/status-page-advanced">Zaid-maker/status-page-advanced</a>
+- Description: 📈 Uptime monitor and status page for DevMirza, powered by @upptime
+- <a href="https://github.com/Zaid-maker/status-page-advanced/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/status-page-advanced"/></a>
 
 For full list of repositories, click [**here**](https://github.com/Zaid-maker?tab=repositories&q=&type=&language=&sort=stargazers).
