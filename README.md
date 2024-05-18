@@ -13,7 +13,7 @@ If you want to create your own repository landscape similar to this, please foll
 - <a href="https://github.com/Zaid-maker/finance/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/finance"/></a>
 ## 3. lingo
 - URL: <a href="https://github.com/Zaid-maker/lingo">Zaid-maker/lingo</a>
-- Description: null
+- Description: Duolingo clone with Next.js 14
 - <a href="https://github.com/Zaid-maker/lingo/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/lingo"/></a>
 ## 4. status-page
 - URL: <a href="https://github.com/Zaid-maker/status-page">Zaid-maker/status-page</a>
