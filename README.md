@@ -25,7 +25,7 @@ If you want to create your own repository landscape similar to this, please foll
 - <a href="https://github.com/Zaid-maker/status-page-advanced/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/status-page-advanced"/></a>
 ## 6. zoom
 - URL: <a href="https://github.com/Zaid-maker/zoom">Zaid-maker/zoom</a>
-- Description: Zoom clone in Nextjs 14
+- Description: 
 - <a href="https://github.com/Zaid-maker/zoom/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/zoom"/></a>
 ## 7. react
 - URL: <a href="https://github.com/Zaid-maker/react">Zaid-maker/react</a>
