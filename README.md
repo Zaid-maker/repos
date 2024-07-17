@@ -33,7 +33,7 @@ If you want to create your own repository landscape similar to this, please foll
 - <a href="https://github.com/Zaid-maker/react/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/react"/></a>
 ## 8. turbo
 - URL: <a href="https://github.com/Zaid-maker/turbo">Zaid-maker/turbo</a>
-- Description: null
+- Description: Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
 - <a href="https://github.com/Zaid-maker/turbo/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Zaid-maker/turbo"/></a>
 
 For full list of repositories, click [**here**](https://github.com/Zaid-maker?tab=repositories&q=&type=&language=&sort=stargazers).
